@@ -1,6 +1,6 @@
 # Non-Playable Prompt (NPP)
 
-**Non-Playable Prompt (NPP)** is a concept introduced by [Marcelo](https://github.com/tu-usuario) to describe a class of prompts or inputs that influence the behavior of AI systems, narrative engines, or game environments without being directly editable or triggered by the end user.
+**Non-Playable Prompt (NPP)** is a concept introduced by [Marcelo Canales](https://github.com/mcanalescl) to describe a class of prompts or inputs that influence the behavior of AI systems, narrative engines, or game environments without being directly editable or triggered by the end user.
 
 ---
 
